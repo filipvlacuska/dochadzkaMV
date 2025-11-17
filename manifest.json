@@ -5,7 +5,7 @@
   
   "start_url": "https://script.google.com/macros/s/AKfycbyCpQZ9WtaY7Bk184uAsYYRMb2mF0lPE7B7-k4_y66aIovzzP-j8zM3tZX_S7TQ-yk3/exec", 
   
-  "display": "standalone",
+  "display": "minimal-ui",
   "background_color": "#ffffff",
   "theme_color": "#005A32",
   "icons": [
@@ -21,3 +21,4 @@
     }
   ]
 }
+
